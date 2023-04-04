@@ -1,0 +1,99 @@
+2023-04-02 05:06:28,486 DEBUG diff parser start
+2023-04-02 05:06:28,486 DEBUG line_lengths old: 25; new: 1
+2023-04-02 05:06:28,486 DEBUG -> code[replace] old[1:25] new[1:1]
+2023-04-02 05:06:28,487 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-04-02 05:06:28,487 DEBUG diff parser end
+2023-04-02 05:06:38,560 DEBUG diff parser start
+2023-04-02 05:06:38,560 DEBUG line_lengths old: 1; new: 1
+2023-04-02 05:06:38,560 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-04-02 05:06:38,561 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-04-02 05:06:38,561 DEBUG diff parser end
+2023-04-02 05:06:41,923 INFO Started reading file.....
+2023-04-02 05:06:41,928 INFO file reading done
+2023-04-02 05:07:04,861 INFO Started writing file.....
+2023-04-02 05:07:04,862 INFO file writing done
+2023-04-02 05:07:10,598 INFO Started reading file.....
+2023-04-02 05:07:10,603 INFO file reading done
+2023-04-02 05:07:24,160 INFO Started writing file.....
+2023-04-02 05:07:24,160 INFO file writing done
+2023-04-02 05:07:29,231 INFO Started reading file.....
+2023-04-02 05:07:29,236 INFO file reading done
+2023-04-02 05:09:08,156 INFO Started reading file.....
+2023-04-02 05:09:08,157 INFO file reading done
+2023-04-02 05:09:34,759 INFO Started reading file.....
+2023-04-02 05:09:34,760 ERROR Issue while reading the file in __main__
+2023-04-02 05:09:34,760 ERROR [Errno 2] No such file or directory: 'text.txt'
+2023-04-02 05:10:07,505 DEBUG diff parser start
+2023-04-02 05:10:07,505 DEBUG line_lengths old: 1; new: 28
+2023-04-02 05:10:07,505 DEBUG -> code[replace] old[1:1] new[1:28]
+2023-04-02 05:10:07,508 DEBUG parse_part from 1 to 28 (to 27 in part parser)
+2023-04-02 05:10:07,508 DEBUG diff parser end
+2023-04-02 05:10:20,523 DEBUG diff parser start
+2023-04-02 05:10:20,523 DEBUG line_lengths old: 28; new: 28
+2023-04-02 05:10:20,523 DEBUG -> code[equal] old[1:27] new[1:27]
+2023-04-02 05:10:20,524 DEBUG copy old[1:27] new[1:18]
+2023-04-02 05:10:20,524 DEBUG parse_part from 19 to 20 (to 20 in part parser)
+2023-04-02 05:10:20,526 DEBUG parse_part from 21 to 28 (to 27 in part parser)
+2023-04-02 05:10:20,526 DEBUG -> code[replace] old[28:28] new[28:28]
+2023-04-02 05:10:20,526 DEBUG diff parser end
+2023-04-02 05:10:27,220 DEBUG diff parser start
+2023-04-02 05:10:27,221 DEBUG line_lengths old: 28; new: 23
+2023-04-02 05:10:27,221 DEBUG -> code[equal] old[1:22] new[1:22]
+2023-04-02 05:10:27,221 DEBUG copy old[1:27] new[1:18]
+2023-04-02 05:10:27,222 DEBUG parse_part from 19 to 20 (to 20 in part parser)
+2023-04-02 05:10:27,222 DEBUG parse_part from 21 to 23 (to 22 in part parser)
+2023-04-02 05:10:27,223 DEBUG -> code[replace] old[23:28] new[23:23]
+2023-04-02 05:10:27,223 DEBUG diff parser end
+2023-04-02 05:11:43,877 DEBUG diff parser start
+2023-04-02 05:11:43,878 DEBUG line_lengths old: 23; new: 17
+2023-04-02 05:11:43,878 DEBUG -> code[equal] old[1:16] new[1:16]
+2023-04-02 05:11:43,878 DEBUG copy old[1:22] new[1:7]
+2023-04-02 05:11:43,879 DEBUG parse_part from 8 to 8 (to 8 in part parser)
+2023-04-02 05:11:43,880 DEBUG parse_part from 9 to 17 (to 16 in part parser)
+2023-04-02 05:11:43,880 DEBUG -> code[replace] old[17:23] new[17:17]
+2023-04-02 05:11:43,880 DEBUG diff parser end
+2023-04-02 05:11:48,630 DEBUG diff parser start
+2023-04-02 05:11:48,630 DEBUG line_lengths old: 17; new: 17
+2023-04-02 05:11:48,631 DEBUG -> code[equal] old[1:16] new[1:16]
+2023-04-02 05:11:48,631 DEBUG copy old[1:16] new[1:7]
+2023-04-02 05:11:48,632 DEBUG parse_part from 8 to 8 (to 8 in part parser)
+2023-04-02 05:11:48,634 DEBUG parse_part from 9 to 17 (to 16 in part parser)
+2023-04-02 05:11:48,634 DEBUG -> code[replace] old[17:17] new[17:17]
+2023-04-02 05:11:48,634 DEBUG diff parser end
+2023-04-02 05:11:55,583 DEBUG diff parser start
+2023-04-02 05:11:55,584 DEBUG line_lengths old: 17; new: 17
+2023-04-02 05:11:55,584 DEBUG -> code[equal] old[1:16] new[1:16]
+2023-04-02 05:11:55,584 DEBUG copy old[1:16] new[1:7]
+2023-04-02 05:11:55,585 DEBUG parse_part from 8 to 8 (to 8 in part parser)
+2023-04-02 05:11:55,587 DEBUG parse_part from 9 to 17 (to 16 in part parser)
+2023-04-02 05:11:55,587 DEBUG -> code[replace] old[17:17] new[17:17]
+2023-04-02 05:11:55,587 DEBUG diff parser end
+2023-04-02 05:11:55,630 DEBUG pickle loaded: C:\Users\harsh\anaconda3\lib\types.py
+2023-04-02 05:11:55,659 DEBUG pickle loaded: C:\Users\harsh\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\types.pyi
+2023-04-02 05:11:56,976 DEBUG diff parser start
+2023-04-02 05:11:56,976 DEBUG line_lengths old: 17; new: 17
+2023-04-02 05:11:56,976 DEBUG -> code[equal] old[1:16] new[1:16]
+2023-04-02 05:11:56,977 DEBUG copy old[1:16] new[1:7]
+2023-04-02 05:11:56,977 DEBUG parse_part from 8 to 8 (to 8 in part parser)
+2023-04-02 05:11:56,979 DEBUG parse_part from 9 to 17 (to 16 in part parser)
+2023-04-02 05:11:56,979 DEBUG -> code[replace] old[17:17] new[17:17]
+2023-04-02 05:11:56,979 DEBUG diff parser end
+2023-04-02 05:11:58,687 DEBUG diff parser start
+2023-04-02 05:11:58,688 DEBUG line_lengths old: 17; new: 17
+2023-04-02 05:11:58,688 DEBUG -> code[equal] old[1:16] new[1:16]
+2023-04-02 05:11:58,688 DEBUG copy old[1:16] new[1:7]
+2023-04-02 05:11:58,689 DEBUG parse_part from 8 to 8 (to 8 in part parser)
+2023-04-02 05:11:58,691 DEBUG parse_part from 9 to 17 (to 16 in part parser)
+2023-04-02 05:11:58,691 DEBUG -> code[replace] old[17:17] new[17:17]
+2023-04-02 05:11:58,692 DEBUG diff parser end
+2023-04-02 05:11:59,696 DEBUG diff parser start
+2023-04-02 05:11:59,696 DEBUG line_lengths old: 17; new: 17
+2023-04-02 05:11:59,696 DEBUG -> code[equal] old[1:16] new[1:16]
+2023-04-02 05:11:59,697 DEBUG copy old[1:16] new[1:7]
+2023-04-02 05:11:59,697 DEBUG parse_part from 8 to 8 (to 8 in part parser)
+2023-04-02 05:11:59,700 DEBUG parse_part from 9 to 17 (to 16 in part parser)
+2023-04-02 05:11:59,700 DEBUG -> code[replace] old[17:17] new[17:17]
+2023-04-02 05:11:59,700 DEBUG diff parser end
+2023-04-02 05:12:14,059 INFO Started reading file.....
+2023-04-02 05:12:14,059 ERROR Issue while reading the file in <class '__main__.file'>
+2023-04-02 05:12:14,060 ERROR [Errno 2] No such file or directory: 'text.txt'
