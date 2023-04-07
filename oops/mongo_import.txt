@@ -1,0 +1,11 @@
+{'_id': 1, 'member': 'abc123', 'status': 'Modified', 'points': 4, 'misc1': 'note to self: confirm status', 'misc2': 'Need to activate', 'lastUpdate': '2019-01-01T00:00:00Z'}
+{'_id': 2, 'member': 'xyz123', 'status': 'Modified', 'points': 62, 'comments': ['reminder: ping me at 100pts', 'Some random comment'], 'lastUpdate': '2019-01-01T00:00:00Z'}
+{'_id': ObjectId('641665b883e41366b5e62061'), 'member': 'morris', 'status': 'Modified', 'points': 71, 'comments': 'disgursting', 'lastUpdate': '18-03-2023'}
+{'_id': ObjectId('6416662a83e41366b5e62064'), 'member': 'channa', 'status': 'Modified', 'points': 11, 'comments': 'home', 'lastUpdate': '18-01-2023'}
+{'_id': ObjectId('6416662a83e41366b5e62063'), 'member': 'Biryani zone', 'status': 'Modified', 'points': 10, 'comments': 'underrrated', 'lastUpdate': '18-02-2023'}
+{'_id': 3, 'member': 'aaoji khao ji', 'status': 'A', 'points': 4, 'comments': 'its average', 'lastUpdate': '09-03-2023'}
+{'_id': 4, 'member': 'ambur', 'status': 'A', 'points': 7, 'comments': 'kay', 'lastUpdate': '01-03-2023'}
+{'_id': ObjectId('6416a12d77a524228b17a8d1'), 'member': 'ambur', 'status': 'A', 'points': 7, 'comments': 'kay', 'lastUpdate': '01-03-2023'}
+{'_id': ObjectId('6416a23d77a524228b17a8d5'), 'member': 'ambur', 'status': 'A', 'points': 7, 'comments': 'kay', 'lastUpdate': '01-03-2023'}
+{'_id': ObjectId('6416a28077a524228b17a8d9'), 'member': 'ambur', 'status': 'A', 'points': 7, 'comments': 'kay', 'lastUpdate': '01-03-2023'}
+{'_id': ObjectId('6416a29a77a524228b17a8dc'), 'member': 'ambur', 'status': 'A', 'points': 7, 'comments': 'kay', 'lastUpdate': '01-03-2023'}
