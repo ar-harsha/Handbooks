@@ -26,15 +26,15 @@ Mat Z = Mat::zeros(2, 2, CV_32F);
 
 #### clone rows
 ```cpp
-Mat row = image.row(0).clone();<br>
-cout << row << endl;<br>
+Mat row = image.row(0).clone();
+cout << row << endl;
 ```
 
 #### fill random values
 ```cpp
-Mat rand = Mat(4, 4, CV_8SC1);<br>
-randu(rand, Scalar::all(0), Scalar::all(200));<br>
-cout << rand << endl;<br>
+Mat rand = Mat(4, 4, CV_8SC1);
+randu(rand, Scalar::all(0), Scalar::all(200));
+cout << rand << endl;
 ```
 
 #### accessing pixel values 
@@ -105,7 +105,11 @@ for (int i = 0;i < nrows;i++) {
     }
 }
 ```
-#### slelect ROI 
+
+#### Devide rgb values into seperate images
+
+
+#### select ROI 
 
 ```cpp
 
